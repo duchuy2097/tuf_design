@@ -1,0 +1,5 @@
+If the sizing chart does not display, the data is as follows (in order: Length-Width-Sleeve, unit: inches)
+
+Sweatshirt: XS: 26-18-32.5, S: 27-20-33.5, M: 28-22-34.5, L: 29-24-35.5, XL: 30-26-36.5, 2XL: 31-28-37.5, 3XL: 32-30-38.5, 4XL: 33-32-39.5, 5XL: 34-34-40.5
+
+Long Sheeve: XS: 18-28-33.5, S: 20-29-35, M: 22-30-36.5, L: 24-31-38, XL: 26-32-39.5, 2XL: 28-33-39.5, 3XL: 30-34-40
